@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Tracker
+            CoinMarket Meter
           </Typography>
           <Typography
             variant="subtitle2"
